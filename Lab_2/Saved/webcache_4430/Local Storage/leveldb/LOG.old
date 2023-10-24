@@ -1,5 +1,3 @@
-2023/10/17-13:37:45.052 35f4 Reusing MANIFEST C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/10/17-13:37:45.117 35f4 Recovering log #3
-2023/10/17-13:37:45.120 35f4 Level-0 table #3: started
-2023/10/17-13:37:45.125 35f4 Level-0 table #3: 17596 bytes OK
-2023/10/17-13:37:45.128 35f4 Delete type=0 #3
+2023/10/17-18:59:19.856 414 Reusing MANIFEST C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/17-18:59:19.857 414 Recovering log #4
+2023/10/17-18:59:19.858 414 Reusing old log C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Saved/webcache_4430\Local Storage\leveldb/000004.log 
