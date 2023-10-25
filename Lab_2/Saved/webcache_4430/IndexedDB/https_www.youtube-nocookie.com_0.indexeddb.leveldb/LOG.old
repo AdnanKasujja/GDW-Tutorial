@@ -1,3 +1,8 @@
-2023/10/06-18:55:49.790 3ae4 Reusing MANIFEST C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/06-18:55:49.791 3ae4 Recovering log #4
-2023/10/06-18:55:49.791 3ae4 Reusing old log C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/10/25-13:32:35.390 2dc8 Reusing MANIFEST C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/25-13:32:35.401 2dc8 Recovering log #4
+2023/10/25-13:32:35.401 2dc8 Reusing old log C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/10/25-13:32:42.583 2dc8 Level-0 table #8: started
+2023/10/25-13:32:42.583 2dc8 Level-0 table #8: 0 bytes OK
+2023/10/25-13:32:42.597 2dc8 Delete type=0 #4
+2023/10/25-13:32:42.598 2dc8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/25-13:32:42.598 2dc8 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,3 +1,8 @@
-2023/10/17-19:39:17.028 2664 Reusing MANIFEST C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/17-19:39:17.032 2664 Recovering log #4
-2023/10/17-19:39:17.033 2664 Reusing old log C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/10/25-13:32:45.689 28dc Reusing MANIFEST C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/25-13:32:45.689 28dc Recovering log #7
+2023/10/25-13:32:45.689 28dc Reusing old log C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2023/10/25-13:32:59.357 2440 Level-0 table #11: started
+2023/10/25-13:32:59.357 2440 Level-0 table #11: 0 bytes OK
+2023/10/25-13:32:59.359 2440 Delete type=0 #7
+2023/10/25-13:32:59.359 2440 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/25-13:32:59.359 2440 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
