@@ -191,6 +191,13 @@
 				"C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Content/Materials/Skybox_Map.uasset",
 				"C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Content/Materials/Skybox_Map_Inst.uasset",
 				"C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Content/Blueprints/BlueyP_AI.uasset",
+				"C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Content/Blueprints/WB_MainMenu.uasset",
+				"C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Content/UI/Button_Hovered.uasset",
+				"C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Content/UI/Button_Normal.uasset",
+				"C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Content/UI/HealthBar_Background.uasset",
+				"C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Content/UI/HealthBar_Fill.uasset",
+				"C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Content/UI/Menu_BG.uasset",
+				"C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Content/Blueprints/WB_HUD.uasset",
 				"C:/Users/Adnan/Documents/GitHub/GDW-Tutorial/Lab_2/Content/Items/Sphere.uasset"
 			]
 		}
